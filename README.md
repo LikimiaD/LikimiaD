@@ -9,6 +9,4 @@
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=likimiad&show_icons=true&theme=white">
 </div>
-<div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LikimiaD">
-</div>
+
