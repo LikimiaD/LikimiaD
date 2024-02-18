@@ -71,7 +71,7 @@ def update_readme(username, stats):
     """
 
     for name, language in repo_names_languages:
-        readme_content += f"{'Project name:':<13} {name}\n{'Language:':<13} {language}\n"
+        readme_content += f"{'Project name:':<13} {name}\n\n{'Language:':<13} {language}\n\n"
     readme_content += "```"
 
     with open('README.md', 'w') as readme_file:
