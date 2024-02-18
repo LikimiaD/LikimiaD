@@ -1,0 +1,28 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 19 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.10.x'
+      - name: Install dependencies
+        run: |
+          pip install requests
+      - name: Update README
+        run: python updater.py
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'LikimiaD'
+          git config --global user.email 'somethingforsoftware@gmail.com'
+          git add README.md
+          git commit -m "Automatically update README" -a || echo "No changes to commit"
+          git push

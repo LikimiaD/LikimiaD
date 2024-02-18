@@ -1,7 +1,47 @@
-<h3 align="center">
-  Welcome to LikimiaD's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7337A&center=true&lines=A+20-year-old+student;Experienced+Python%2FJS%2FC+Developer;I+am+interested+in+3D+modeling;Always+learning+new+things"></a>
+
+```zsh
+> neofetch
+```
+
+<img align="left" src="https://avatars.githubusercontent.com/likimiad" alt="LikimiaD Github Avatar" width="410" height="410" /> 
+
+```
+likimiad@github
+-------------------------
+Name: Igor
+Main Education: National University of Science and Technology MISIS
+Additional education: School21 (Moscow Campus) *In EU called School42*
+Pronouns: He/Him
+Location: Moscow, Russia
+Frameworks: Django, Flask, Numpy,
+            Pandas, Sklearn, openCV,
+            aiogram, Qt
+Languages: Python, C, C++, C#, SQL
+Learning: JS, Golang, C++
+Hobbies: SIM Racing, Reverse engineering, Cycling
+Commits: 131
+Stars: 22
+Discord: likimiad
+```
+<p align="left">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="#474342" src="https://via.placeholder.com/15/474342/000000?text=+" width="25" height="20" /><img alt="#fbedf6" src="https://via.placeholder.com/15/fbedf6/000000?text=+" width="25" height="20" /><img alt="#676767" src="https://via.placeholder.com/15/676767/000000?text=+" width="25" height="20" /><img alt="#181818" src="https://via.placeholder.com/15/181818/000000?text=+" width="25" height="20" /><img alt="#ae9c9d" src="https://via.placeholder.com/15/ae9c9d/000000?text=+" width="25" height="20" />
 </p>
+
+```zsh
+> git log -n 5
+```
+
+```
+Last Projects:
+Project name: Decimal-Implementation
+Language:     C
+Project name: string.h-Implementation
+Language:     C
+Project name: Matrix-Implementation
+Language:     C++
+Project name: Kurcach
+Language:     Jupyter Notebook
+Project name: Custom-math.h
+Language:     C
+```
