@@ -6,7 +6,13 @@ def grid_data(username):
     headers = {'Authorization': f'token {token}'}
 
     repos_response = requests.get(f'https://api.github.com/users/{username}/repos?type=owner&per_page=100', headers=headers)
-    repos = repos_response.json()
+    
+    if repos_response.status_code == 200:
+        repos = repos_response.json()
+    else:
+        print(f"Error fetching repos: {repos_response.status_code}")
+        print(repos_response.text)
+        exit()
 
     total_stars = sum(repo['stargazers_count'] for repo in repos)
     
