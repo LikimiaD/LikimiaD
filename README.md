@@ -19,7 +19,7 @@
     Languages: Python, C, C++, C#, SQL
     Learning: JS, Golang, C++
     Hobbies: SIM Racing, Reverse engineering, Cycling
-    Commits: 135
+    Commits: 137
     Stars: 22
     Discord: likimiad
     ```
@@ -35,13 +35,23 @@
     ```
     Last Projects:
     Project name: Decimal-Implementation
+
 Language:     C
+
 Project name: string.h-Implementation
+
 Language:     C
+
 Project name: Matrix-Implementation
+
 Language:     C++
+
 Project name: Kurcach
+
 Language:     Jupyter Notebook
+
 Project name: Custom-math.h
+
 Language:     C
+
 ```
