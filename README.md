@@ -3,7 +3,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://avatars.githubusercontent.com/likimiad" alt="LikimiaD Github Avatar" width="410" height="410" /> 
+<img align="left" src="https://avatars.githubusercontent.com/likimiad" alt="LikimiaD Github Avatar" width="350" height="350" /> 
 
 ```
 likimiad@github

@@ -25,13 +25,13 @@ def grid_data(username):
 def update_readme(username, stats):
     total_stars, total_commits, repo_names_languages = stats
     avatar = os.getenv('MY_AVATAR')
-    
+
     readme_content = f"""
     ```zsh
     > neofetch
     ```
 
-    <img align="left" src="{avatar}" alt="LikimiaD Github Avatar" width="410" height="410" /> 
+    <img align="left" src="{avatar}" alt="LikimiaD Github Avatar" width="350" height="350" /> 
 
     ```
     likimiad@github
