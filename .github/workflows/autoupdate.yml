@@ -18,6 +18,9 @@ jobs:
         run: |
           pip install requests
       - name: Update README
+        env:
+          MY_TOKEN: ${{ secrets.MY_TOKEN }}
+          MY_AVATAR: ${{ secrets.MY_AVATAR }}
         run: python updater.py
       - name: Commit and push if changed
         run: |
