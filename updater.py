@@ -72,7 +72,19 @@ Last Projects:
 
     for name, language in repo_names_languages:
         readme_content += f"{'Project name:':<13} {name}\n{'Language:':<13} {language}\n"
-    readme_content += "```"
+        
+    readme_content += """```
+```zsh
+> openssl s_client -connect likimiad:443 -servername -showcerts
+```
+### Certificates:
+
+**Udemy** -> Python Course [RU](https://drive.google.com/file/d/1qQL9Emr5hgZaehdFBfGmX9Ecda__gQtU/view?usp=sharing)
+
+**Yandex** -> Young&&Yandex Algorithm Training 3.0 [RU](https://drive.google.com/file/d/1C3WHKdxITHBoZWk6WRuJoRcB1LgqNXdq/view?usp=sharing)
+
+**Karpov.Courses** -> Docker Course [RU](https://lab.karpov.courses/certificate/27aa9384-171e-41d5-b6fb-8022047cbfb1/) [EN](https://lab.karpov.courses/certificate/27aa9384-171e-41d5-b6fb-8022047cbfb1/en/)
+"""
 
     with open('README.md', 'w') as readme_file:
         readme_file.write(readme_content)
