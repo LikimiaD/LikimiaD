@@ -19,16 +19,13 @@ Frameworks: Django, Flask, Numpy,
 Languages: Python, C, C++, C#, SQL
 Learning: JS, Golang, C++
 Hobbies: SIM Racing, Reverse engineering, Cycling
-Commits: 151
+Commits: 153
 Stars: 29
 Discord: likimiad
 ```
 <p align="left">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<img alt="#474342" src="https://via.placeholder.com/15/474342/000000?text=+" width="25" height="20" />
-<img alt="#fbedf6" src="https://via.placeholder.com/15/fbedf6/000000?text=+" width="25" height="20" />
-<img alt="#676767" src="https://via.placeholder.com/15/676767/000000?text=+" width="25" height="20" />
-<img alt="#181818" src="https://via.placeholder.com/15/181818/000000?text=+" width="25" height="20" /><img alt="#ae9c9d" src="https://via.placeholder.com/15/ae9c9d/000000?text=+" width="25" height="20" />
+<img alt="#474342" src="https://via.placeholder.com/15/474342/000000?text=+" width="25" height="20" /><img alt="#fbedf6" src="https://via.placeholder.com/15/fbedf6/000000?text=+" width="25" height="20" /><img alt="#676767" src="https://via.placeholder.com/15/676767/000000?text=+" width="25" height="20" /><img alt="#181818" src="https://via.placeholder.com/15/181818/000000?text=+" width="25" height="20" /><img alt="#ae9c9d" src="https://via.placeholder.com/15/ae9c9d/000000?text=+" width="25" height="20" />
 </p>
 
 ```zsh
@@ -48,7 +45,6 @@ Language:     C
 Project name: string.h-Implementation
 Language:     C
 ```
-
 ```zsh
 > openssl s_client -connect likimiad:443 -servername -showcerts
 ```
