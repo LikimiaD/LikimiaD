@@ -19,7 +19,7 @@ Frameworks: Django, Flask, Numpy,
 Languages: Python, C, C++, C#, SQL
 Learning: JS, Golang, C++
 Hobbies: SIM Racing, Reverse engineering, Cycling
-Commits: 159
+Commits: 166
 Stars: 29
 Discord: likimiad
 ```
@@ -34,6 +34,8 @@ Discord: likimiad
 
 ```
 Last Projects:
+Project name: MISIS_BIVT_21-3_Tolochik_ML
+Language:     Jupyter Notebook
 Project name: Red-Black-Tree
 Language:     C++
 Project name: Custom-Matrix-Operations-Library
@@ -41,8 +43,6 @@ Language:     C
 Project name: SmartCalc-v1.0
 Language:     C
 Project name: Decimal-Implementation
-Language:     C
-Project name: string.h-Implementation
 Language:     C
 ```
 ```zsh
