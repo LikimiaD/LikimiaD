@@ -19,7 +19,7 @@ Frameworks: Django, Flask, Numpy,
 Languages: Python, C, C++, C#, SQL
 Learning: JS, Golang, C++
 Hobbies: SIM Racing, Reverse engineering, Cycling
-Commits: 224
+Commits: 226
 Stars: 33
 Discord: likimiad
 ```
@@ -55,3 +55,5 @@ Language:     None
 **Yandex** -> Young&&Yandex Algorithm Training 3.0 [RU](https://drive.google.com/file/d/1C3WHKdxITHBoZWk6WRuJoRcB1LgqNXdq/view?usp=sharing)
 
 **Karpov.Courses** -> Docker Course [RU](https://lab.karpov.courses/certificate/27aa9384-171e-41d5-b6fb-8022047cbfb1/) [EN](https://lab.karpov.courses/certificate/27aa9384-171e-41d5-b6fb-8022047cbfb1/en/)
+
+**Karpov.Courses** -> SQL Simulator [RU](https://lab.karpov.courses/certificate/40b96305-67b3-422e-bd90-6bed7f1404ab/) [EN](https://lab.karpov.courses/certificate/40b96305-67b3-422e-bd90-6bed7f1404ab/en/)
