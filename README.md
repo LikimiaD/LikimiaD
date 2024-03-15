@@ -19,8 +19,8 @@ Frameworks: Django, Flask, Numpy,
 Languages: Python, C, C++, C#, SQL
 Learning: JS, Golang, C++
 Hobbies: SIM Racing, Reverse engineering, Cycling
-Commits: 226
-Stars: 33
+Commits: 229
+Stars: 34
 Discord: likimiad
 ```
 <p align="left">
@@ -43,7 +43,7 @@ Language:     C++
 Project name: STL-Containers-Implementation
 Language:     C++
 Project name: SQL-bootcamp
-Language:     None
+Language:     PLpgSQL
 ```
 ```zsh
 > openssl s_client -connect likimiad:443 -servername -showcerts
