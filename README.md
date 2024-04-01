@@ -19,8 +19,8 @@ Frameworks: Django, Flask, Numpy,
 Languages: Python, C, C++, C#, SQL
 Learning: JS, Golang, C++
 Hobbies: SIM Racing, Reverse engineering, Cycling
-Commits: 234
-Stars: 34
+Commits: 239
+Stars: 36
 Discord: likimiad
 ```
 <p align="left">
@@ -34,16 +34,16 @@ Discord: likimiad
 
 ```
 Last Projects:
+Project name: MISIS-Spring
+Language:     Java
+Project name: MISIS-RabbitMQ
+Language:     Java
 Project name: 3D-Viewer
 Language:     C++
 Project name: SmartCalc-v2.0
 Language:     C++
 Project name: MISIS-BIVT-21-3-Lychev
 Language:     C++
-Project name: STL-Containers-Implementation
-Language:     C++
-Project name: SQL-bootcamp
-Language:     PLpgSQL
 ```
 ```zsh
 > openssl s_client -connect likimiad:443 -servername -showcerts
