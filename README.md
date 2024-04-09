@@ -19,8 +19,8 @@ Frameworks: Django, Flask, Numpy,
 Languages: Python, C, C++, C#, SQL
 Learning: JS, Golang, C++
 Hobbies: SIM Racing, Reverse engineering, Cycling
-Commits: 245
-Stars: 37
+Commits: 246
+Stars: 38
 Discord: likimiad
 ```
 <p align="left">
