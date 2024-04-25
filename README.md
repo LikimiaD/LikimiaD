@@ -19,7 +19,7 @@ Frameworks: Django, Flask, Numpy,
 Languages: Python, C, C++, C#, SQL
 Learning: JS, Golang, C++
 Hobbies: SIM Racing, Reverse engineering, Cycling
-Commits: 256
+Commits: 258
 Stars: 39
 Discord: likimiad
 ```
@@ -34,6 +34,8 @@ Discord: likimiad
 
 ```
 Last Projects:
+Project name: car-management-api
+Language:     Go
 Project name: api-inventory-management-system
 Language:     Go
 Project name: File-Tree-Printer
@@ -41,8 +43,6 @@ Language:     Go
 Project name: Go-Bootcamp
 Language:     Go
 Project name: MISIS-Spring
-Language:     Java
-Project name: MISIS-RabbitMQ
 Language:     Java
 ```
 ```zsh
