@@ -19,7 +19,7 @@ Frameworks: Django, Flask, Numpy,
 Languages: Python, C, C++, C#, SQL
 Learning: JS, Golang, C++
 Hobbies: SIM Racing, Reverse engineering, Cycling
-Commits: 271
+Commits: 272
 Stars: 39
 Discord: likimiad
 ```
@@ -34,6 +34,8 @@ Discord: likimiad
 
 ```
 Last Projects:
+Project name: wbtech2
+Language:     Go
 Project name: wbtech1
 Language:     Go
 Project name: wbtech0
@@ -42,8 +44,6 @@ Project name: Sber-DevOps
 Language:     Smarty
 Project name: sorex-bot
 Language:     Python
-Project name: car-management-api
-Language:     Go
 ```
 ```zsh
 > openssl s_client -connect likimiad:443 -servername -showcerts
