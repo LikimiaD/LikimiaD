@@ -20,7 +20,7 @@ Languages: Python, C, C++, C#, SQL
 Learning: JS, Golang, C++
 Hobbies: SIM Racing, Reverse engineering, Cycling
 Commits: 274
-Stars: 39
+Stars: 40
 Discord: likimiad
 ```
 <p align="left">
