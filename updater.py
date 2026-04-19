@@ -47,11 +47,8 @@ Main Education: National University of Science and Technology MISIS
 Additional education: School21 (Moscow Campus) *In EU called School42*
 Pronouns: He/Him
 Location: Moscow, Russia
-Frameworks: Django, Flask, Numpy,
-            Pandas, Sklearn, openCV,
-            aiogram, Qt
-Languages: Python, C, C++, C#, SQL
-Learning: JS, Golang, C++
+Languages: Python, C, C++, C#, SQL, Go, TS
+Learning: Go, TS, C++
 Hobbies: SIM Racing, Reverse engineering, Cycling
 Commits: {total_commits}
 Stars: {total_stars}
@@ -59,7 +56,7 @@ Discord: likimiad
 ```
 <p align="left">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<img alt="#474342" src="https://via.placeholder.com/15/474342/000000?text=+" width="25" height="20" /><img alt="#fbedf6" src="https://via.placeholder.com/15/fbedf6/000000?text=+" width="25" height="20" /><img alt="#676767" src="https://via.placeholder.com/15/676767/000000?text=+" width="25" height="20" /><img alt="#181818" src="https://via.placeholder.com/15/181818/000000?text=+" width="25" height="20" /><img alt="#ae9c9d" src="https://via.placeholder.com/15/ae9c9d/000000?text=+" width="25" height="20" />
+<img alt="#474342" src="https://placehold.co/25x20/474342/474342.png" width="25" height="20" /><img alt="#fbedf6" src="https://placehold.co/25x20/fbedf6/fbedf6.png" width="25" height="20" /><img alt="#676767" src="https://placehold.co/25x20/676767/676767.png" width="25" height="20" /><img alt="#181818" src="https://placehold.co/25x20/181818/181818.png" width="25" height="20" /><img alt="#ae9c9d" src="https://placehold.co/25x20/ae9c9d/ae9c9d.png" width="25" height="20" />
 </p>
 
 ```zsh
