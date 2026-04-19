@@ -54,10 +54,7 @@ Commits: {total_commits}
 Stars: {total_stars}
 Discord: likimiad
 ```
-<p align="left">
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<img alt="#474342" src="https://placehold.co/25x20/474342/474342.png" width="25" height="20" /><img alt="#fbedf6" src="https://placehold.co/25x20/fbedf6/fbedf6.png" width="25" height="20" /><img alt="#676767" src="https://placehold.co/25x20/676767/676767.png" width="25" height="20" /><img alt="#181818" src="https://placehold.co/25x20/181818/181818.png" width="25" height="20" /><img alt="#ae9c9d" src="https://placehold.co/25x20/ae9c9d/ae9c9d.png" width="25" height="20" />
-</p>
+<p align="left">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img alt="#474342" src="https://dummyimage.com/25x20/474342/474342.png" width="25" height="20" /><img alt="#fbedf6" src="https://dummyimage.com/25x20/fbedf6/fbedf6.png" width="25" height="20" /><img alt="#676767" src="https://dummyimage.com/25x20/676767/676767.png" width="25" height="20" /><img alt="#181818" src="https://dummyimage.com/25x20/181818/181818.png" width="25" height="20" /><img alt="#ae9c9d" src="https://dummyimage.com/25x20/ae9c9d/ae9c9d.png" width="25" height="20" /></p>
 
 ```zsh
 > git log -n 5
